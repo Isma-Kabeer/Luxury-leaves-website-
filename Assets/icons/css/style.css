@@ -1,0 +1,38 @@
+/*css extername document*/
+
+body{
+    background-color:silver;
+    font-family: sans-serif;
+    line-height:23px;
+}
+
+h1{
+    color:red;
+}
+
+h2{
+    color:green;
+}
+
+p{
+    color:blue;
+}
+
+a:link,a:visited{
+    color:orange;
+    background-color:black;
+    display:inline-block;
+    height:40px;
+    width:120px;
+    text-align:center;
+    padding-top:10px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+a:hover{
+    color:red;
+    background-color:gray;
+}
+
+
